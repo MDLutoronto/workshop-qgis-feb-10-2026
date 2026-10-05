@@ -63,4 +63,4 @@ This is a beginner-friendly workshop, with no recommended prerequisites. **You w
   style="border: none;">
 </iframe>
 
-**Technique**: [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis) \| **Tools:** [QGIS](https://mdlutoronto.github.io/tutorials-search/?tool=QGIS)
+**Technique**: [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis) | **Tools:** [QGIS](https://mdlutoronto.github.io/tutorials-search/?tool=QGIS)
